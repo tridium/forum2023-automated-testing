@@ -1,0 +1,6 @@
+<types>
+  <!--com.esanderson.kitFloatingPoint-->
+  <type class="com.esanderson.kitFloatingPoint.BDoubleAlarmAlgorithm" name="DoubleAlarmAlgorithm"/>
+  <type class="com.esanderson.kitFloatingPoint.BDoubleDemux1" name="DoubleDemux1"/>
+  <type class="com.esanderson.kitFloatingPoint.BDoubleDemux2" name="DoubleDemux2"/>
+</types>

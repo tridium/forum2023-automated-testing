@@ -1,0 +1,6 @@
+/.gradle/
+/.idea/
+/build/
+/kitFloatingPoint-rt/build/
+/signing/
+/kitFloatingPoint.pem

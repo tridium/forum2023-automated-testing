@@ -1,0 +1,7 @@
+<types>
+  <!--test.com.esanderson.kitFloatingPoint-->
+  <type class="test.com.esanderson.kitFloatingPoint.BDoubleAlarmAlgorithmTest1" name="DoubleAlarmAlgorithmTest1"/>
+  <type class="test.com.esanderson.kitFloatingPoint.BDoubleAlarmAlgorithmTest2" name="DoubleAlarmAlgorithmTest2"/>
+  <type class="test.com.esanderson.kitFloatingPoint.BDoubleDemuxTest1b" name="DoubleDemuxTest1b"/>
+  <type class="test.com.esanderson.kitFloatingPoint.BDoubleDemuxTest2" name="DoubleDemuxTest2"/>
+</types>
